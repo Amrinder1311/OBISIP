@@ -1,0 +1,227 @@
+body {
+    background-color: rgb(41, 40, 40);
+}
+
+.hero-section {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+
+#logo {
+    color: blueviolet;
+    margin: 70px;
+    font-size: larger;
+}
+
+.hero-section nav {
+    display: flex;
+    gap: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+img {
+    opacity: 0.5;
+}
+
+#color {
+    color: blueviolet;
+
+}
+
+.content h1 {
+    margin-left: 20px;
+}
+
+.content {
+    position: relative;
+    height: 200px;
+    /* text-align: center; */
+    color: white;
+
+}
+
+#circle {
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.content img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* width: 100%;
+    height: 100%; */
+    /* object-fit: cover;  */
+    opacity: 0.3;
+    z-index: 0;
+}
+
+.content h1,
+.content p,
+.content button {
+    position: relative;
+    z-index: 1;
+    margin-left: 20px;
+}
+
+.content button {
+    background-color: transparent;
+    color: whitesmoke;
+
+}
+
+#span {
+    color: blueviolet;
+}
+
+#title {
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#title>span {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.cards {
+    background-color: white;
+    display: flex;
+    /* height: 100px;
+    width: 100px; */
+    gap: 10px;
+    padding: 40px 60px;
+    margin: 0;
+    justify-content: center;
+    box-sizing: border-box
+}
+
+.cards>div {
+    flex: 1;
+    padding: 25px;
+
+    background-color: rgb(94, 92, 92);
+
+    border-radius: 12px;
+
+    box-sizing: border-box;
+}
+
+.cards h4 {
+    margin: 0 0 15px 0;
+    font-size: 18px;
+}
+
+#learn {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 8px;
+}
+
+.About {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+}
+
+.count {
+    color: aliceblue;
+    height: 100px;
+   
+    /* background-color: black; */
+    display: flex;
+    gap: 100px;
+    padding-bottom: 40px;
+    margin-top:10px;
+    justify-content: center;
+    box-sizing: border-box;
+
+}
+#start{
+    background-color: white;
+    color:blueviolet;
+    border-radius: 8px;
+}
+.Testimonials{
+ justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    margin-top: 0;
+    padding-bottom: 10px;
+}
+.Footer{
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:flex-start;
+    gap: 100px;
+
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+}
+.resource{
+     display: flex;
+    flex-direction: column;
+    color: white;
+}
+.resource a{
+    color:white;
+    text-decoration: none;
+}
+.contact{
+     display: flex;
+    flex-direction: column;
+    color: white;
+}
+.contact a{
+      color:white;
+    text-decoration: none;
+}
+#preMaster{
+    color: aliceblue;
+    margin-right: 5px;
+}
+
+#location{
+    margin-right: 10px;
+    color: blueviolet;
+}
+#locationPh{
+    margin-right: 20px;
+    color: blueviolet;
+}
+#follow{
+    margin-right: 10px;
+    color:blueviolet;
+}
+#cardLogo{
+    color: blueviolet;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    size: 2em;
+    margin-bottom: 5px;
+}

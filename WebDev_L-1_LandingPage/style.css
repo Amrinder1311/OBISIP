@@ -1,6 +1,9 @@
 body {
     background-color: rgb(41, 40, 40);
 }
+html {
+    scroll-behavior: smooth;
+}
 
 .hero-section {
     background-color: rgb(37, 37, 37);

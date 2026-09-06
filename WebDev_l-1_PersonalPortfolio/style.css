@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+}
+.hero-section {
+    background-color: rgb(32, 31, 31);
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    
+}
+#logo {
+    color: rgb(91, 91, 14);
+    margin: 70px;
+    font-size: larger;
+}
+
+.hero-section nav {
+    display: flex;
+    gap: 30px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.content{
+    background-color: rgb(47, 46, 46);
+}
+h3{
+    color: rgb(91, 91, 14) ;
+}
+span{
+    color:  rgb(91, 91, 14);
+}
+.button{
+    background-color:  rgb(91, 91, 14);
+    color: aliceblue;
+    margin-left: 30px;
+}
+.about{
+    background-color: rgb(35, 35, 35);
+}

@@ -152,6 +152,14 @@ img {
     box-sizing: border-box;
 
 }
+#how-it-works{
+    color: aliceblue;
+}
+.how-it-works{
+    color:blueviolet ;
+}
+
+
 #start{
     background-color: white;
     color:blueviolet;
@@ -179,6 +187,7 @@ img {
     display: flex;
     flex-direction: column;
     color: white;
+    margin-top: 25px;
 }
 .links a{
     color: white;
@@ -188,6 +197,7 @@ img {
      display: flex;
     flex-direction: column;
     color: white;
+    margin-top: 25px;
 }
 .resource a{
     color:white;
@@ -197,6 +207,7 @@ img {
      display: flex;
     flex-direction: column;
     color: white;
+    margin-top: 25px;
 }
 .contact a{
       color:white;

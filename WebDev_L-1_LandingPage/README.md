@@ -16,7 +16,7 @@ Status       -> Completed
 
 # Internship Landing Page
 
-A modern and responsive landing page developed as part of my **Frontend Development Internship**. The project focuses on creating a clean, attractive, and user-friendly web interface using fundamental frontend technologies.
+A modern and responsive landing page developed as part of my **Web Development & Designing Internship**. The project focuses on creating a clean, attractive, and user-friendly web interface using fundamental frontend technologies.
 
 ##  Features
 
@@ -38,14 +38,14 @@ A modern and responsive landing page developed as part of my **Frontend Developm
 
 ##  Project Structure
 
-```text
+
 Internship-Landing-Page/
 │
 ├── index.html
 ├── style.css
 ├── images/
 └── README.md
-```
+
 
 ##  Objective
 
@@ -63,9 +63,7 @@ Through this project, I improved my understanding of:
 * Creating reusable and organized styles
 * Building websites from scratch
 
-## 🌐 Live Demo
 
-Coming soon.
 
 ## 👩‍💻 Author
 
